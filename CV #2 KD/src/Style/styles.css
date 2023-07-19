@@ -1,0 +1,56 @@
+/* headercontainer*/
+.contenedorheader {
+  display: flex;                                                                   /* Set text color to red */
+  background-color: rgb(68, 60, 60);                                             /* Set text color to red */ 
+  background-image: linear-gradient(rgb(68, 60, 60), rgb(111, 111, 100));
+  justify-content: space-around;                                                    /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.foto {
+  width: 100px;                                                                     /* Set text color to red */
+  height: 100px;                                                                    /* Set text color to red */
+  border-radius: 50px;                                                              /* Set text color to red */
+  align-items: center;                                                              /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.jose {                                                                             /* Set text color to red */
+  color: white;                                                                   /* Set text color to red */
+  font-family: Lucida Console;                                                      /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.puesto {
+  color: darkgray;                                                                /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.father {
+  display: flex;                                                                    /* Set text color to red */    
+}
+
+/* This is a single-line comment */
+.son1 {
+  background-color: rgb(225, 228, 241);                                           /* Set text color to red */
+  width: 35%;                                                                       /* Set text color to red */
+  margin: 0 auto;                                                                   /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.son2 {
+  background-color: rgb(236, 237, 243);                                           /* Set text color to red */
+  width: 100%;                                                                      /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.left {
+  width: 80%;                                                                       /* Set text color to red */
+  margin-left: 10px;                                                                /* Set text color to red */
+}
+
+/* This is a single-line comment */
+.right {
+  margin-left: 50px;                                                                /* Set text color to red */
+  margin-right: 50px;                                                               /* Set text color to red */
+}
