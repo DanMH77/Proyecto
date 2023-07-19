@@ -4,23 +4,27 @@
     border-radius: 50px;
     width: 190px;
     height: 190px;
-position: absolute;
-left: 40px;
-top: 10px;}
+    position: absolute;
+    left: 40px;
+    top: 10px;
+}
 .contact{
-border-bottom: 15px;
-text-decoration: underline;
-position: absolute;
-left: 50px;
-top: 200px;}
+    border-bottom: 15px;
+    text-decoration: underline;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
 .parra1{
     position: absolute;
     left: 45px;
-    top: 245px;}
+    top: 245px;
+}
 .parra2{
- position: absolute;
- left: 45px;
-top: 270px;}
+    position: absolute;
+    left: 45px;
+    top: 270px;
+}
 .contact2{
     text-decoration: underline;
     position: absolute;
@@ -29,19 +33,23 @@ top: 270px;}
 .pollo{
     position: absolute;
     top: 340px;
-    left: 45px;}
+    left: 45px;
+}
 .papasfritas{
     position: absolute;
     top: 450px;
     left: 45px;
-    text-decoration: underline;}
+    text-decoration: underline;
+}
 .Initial{
-    background-image: url(https://i.pinimg.com/236x/81/35/f0/8135f0e7b585eb0ce558e1a5c5283399.jpg);
+    background-image: url(https://thumbs.gfycat.com/AncientSevereKitten-size_restricted.gif);
+    background-size: cover;
     width: 290px;
     height: 600px;
     position: absolute;
     top: 0px;
-    left: 0px;}
+    left: 0px;
+}
 .idiomas{
     position: absolute;
     top: 490px;
@@ -51,7 +59,8 @@ top: 270px;}
     left: 600px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
-    border-bottom: 2px solid black;}
+    border-bottom: 2px solid black;
+}
 .resumen{
     position: absolute;
     top: 110px;
@@ -67,53 +76,57 @@ border-bottom: 3px solid black;}
     top: 200px;
     left: 335px;
 font-family: Arial, Helvetica, sans-serif;
-text-decoration: underline;}
+text-decoration: underline;
+}
 .hotel{
     position: absolute;
     left: 335px;
     top: 250px ;
 border-right: 3px solid black;
-width: 230px;}
+width: 230px;
+}
 .macopa{
     position: absolute;
     top: 250px;
     left: 650px;
     border-right: 3px solid black;
-    width: 230px;}
+    width: 230px;
+}
 .ciclo{
     position: absolute;
     top: 250px;
-    right: 100px;}
+    right: 100px;
+}
 .formacion{
     position: absolute;
     top: 425px;
     left: 325px;
-    font-family: Arial, Helvetica, sans-serif;}
+    font-family: Arial, Helvetica, sans-serif;
+}
 .formaciontexto{
     position: absolute;
     top: 490px;
-    left: 325px;}
+    left: 325px;
+}
 .socialMedia{
     position: absolute;
     top: 425px;
     right: 200px;
-    font-family: Arial, Helvetica, sans-serif;}
+    font-family: Arial, Helvetica, sans-serif;
+}
 .facebook{
     position: absolute;
     top: 470px;
     right: 320px;
-    font-size: 20px;}
+    font-size: 20px;
+}
 .link1:hover{
-    color: rgb(253, 0, 0);}
-body{
-    background-image: url();
-    background-size: cover;}
+    color: rgb(253, 0, 0);
+}
+
 #boton{
     font-size: 30px;
     position: absolute;
     right: 50px;
-    top: 70px;}
-/* #boton:hover{
-font-size: 40px;
-background-image: url(https://media.tenor.com/dc78ktzLyX0AAAAC/changing-colors.gif);
-} */
+    top: 70px;
+}
