@@ -1,56 +1,66 @@
-/* headercontainer*/
+/*container div*/
+
 .contenedorheader {
-  display: flex;                                                                   /* Set text color to red */
-  background-color: rgb(68, 60, 60);                                             /* Set text color to red */ 
-  background-image: linear-gradient(rgb(68, 60, 60), rgb(111, 111, 100));
-  justify-content: space-around;                                                    /* Set text color to red */
+  display: flex; /*place the boxes as cells*/
+  background-color: rgb(68, 60, 60); /* change background color */
+  background-image: linear-gradient(
+    rgb(68, 60, 60),
+    rgb(111, 111, 100)
+  ); /*set background images for an element*/
+  justify-content: space-around; /*distribute space between flex items*/
 }
 
-/* This is a single-line comment */
+/*profile picture div*/
+
 .foto {
-  width: 100px;                                                                     /* Set text color to red */
-  height: 100px;                                                                    /* Set text color to red */
-  border-radius: 50px;                                                              /* Set text color to red */
-  align-items: center;                                                              /* Set text color to red */
+  width: 100px; /*image width 100px */
+  height: 100px; /*image height 100px */
+  border-radius: 50px; /*create a circular border*/
 }
 
-/* This is a single-line comment */
-.jose {                                                                             /* Set text color to red */
-  color: white;                                                                   /* Set text color to red */
-  font-family: Lucida Console;                                                      /* Set text color to red */
+/*name of profile div*/
+
+.kevin {
+  color: white; /*change the font to white */
+  font-family: Lucida Console; /* Set text color to red */
 }
 
-/* This is a single-line comment */
+/*additional information div*/
+
 .puesto {
-  color: darkgray;                                                                /* Set text color to red */
+  color: darkgray; /* Set text color to red */
 }
 
-/* This is a single-line comment */
+/*body div*/
+
 .father {
-  display: flex;                                                                    /* Set text color to red */    
+  display: flex; /*place the boxes as cells*/
 }
 
-/* This is a single-line comment */
+/*first div*/
+
 .son1 {
-  background-color: rgb(225, 228, 241);                                           /* Set text color to red */
-  width: 35%;                                                                       /* Set text color to red */
-  margin: 0 auto;                                                                   /* Set text color to red */
+  background-color: rgb(225, 228, 241); /* change background color */
+  width: 35%; /*image width 100px */
 }
 
-/* This is a single-line comment */
+/*second div*/
+
 .son2 {
-  background-color: rgb(236, 237, 243);                                           /* Set text color to red */
-  width: 100%;                                                                      /* Set text color to red */
+  background-color: rgb(236, 237, 243); /* change background color */
+  width: 100%; /*image width 100px */
 }
 
-/* This is a single-line comment */
+/*left div*/
+
 .left {
-  width: 80%;                                                                       /* Set text color to red */
-  margin-left: 10px;                                                                /* Set text color to red */
+  width: 80%; /*image width 100px */
+  margin-left: 10px; /* Set text color to red */
 }
 
-/* This is a single-line comment */
+/*right div*/
+
 .right {
-  margin-left: 50px;                                                                /* Set text color to red */
-  margin-right: 50px;                                                               /* Set text color to red */
+  margin-left: 50px; /*sets the margin from left to right*/
+  margin-right: 50px; /*sets the margin from left to right*/
 }
